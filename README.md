@@ -1,2 +1,3 @@
-DataProducts
-============
+Welcome to the course project done by yours truly as part of the Coursera "Developing Data Products" course. A Shiny App has been developed called "Vintage cars selector". The folder titled "vintagecars" contains the code relating to the App. A Slidify presentation has also been created, which is all available in the folder "vintagecars-slidify". Thank you, and hope you like it. Any feedback is welcome.
+Regards
+Vaidy Subramanian
